@@ -1,0 +1,11 @@
+c:\users\nikita grishin\source\repos\IHStask\IHStask\bin\Debug\netcoreapp2.0\IHStask.deps.json
+c:\users\nikita grishin\source\repos\IHStask\IHStask\bin\Debug\netcoreapp2.0\IHStask.runtimeconfig.json
+c:\users\nikita grishin\source\repos\IHStask\IHStask\bin\Debug\netcoreapp2.0\IHStask.runtimeconfig.dev.json
+c:\users\nikita grishin\source\repos\IHStask\IHStask\bin\Debug\netcoreapp2.0\IHStask.dll
+c:\users\nikita grishin\source\repos\IHStask\IHStask\bin\Debug\netcoreapp2.0\IHStask.pdb
+c:\users\nikita grishin\source\repos\IHStask\IHStask\obj\Debug\netcoreapp2.0\IHStask.csproj.CoreCompileInputs.cache
+c:\users\nikita grishin\source\repos\IHStask\IHStask\obj\Debug\netcoreapp2.0\IHStask.AssemblyInfoInputs.cache
+c:\users\nikita grishin\source\repos\IHStask\IHStask\obj\Debug\netcoreapp2.0\IHStask.AssemblyInfo.cs
+c:\users\nikita grishin\source\repos\IHStask\IHStask\obj\Debug\netcoreapp2.0\IHStask.dll
+c:\users\nikita grishin\source\repos\IHStask\IHStask\obj\Debug\netcoreapp2.0\IHStask.pdb
+c:\users\nikita grishin\source\repos\IHStask\IHStask\obj\Debug\netcoreapp2.0\IHStask.csprojAssemblyReference.cache
